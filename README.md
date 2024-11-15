@@ -18,7 +18,7 @@ The E-commerce Back End is a RESTful API designed to manage the back-end functio
 
 
 ## Walkthrough Video
-For a step-by-step demonstration of the application's functionality, check out the [walkthrough video](https://drive.google.com/file/d/1a7wb1iuX-bXXMtT_j6onhQykaQqqrkEa/view?usp=sharing).
+For a step-by-step demonstration of the application's functionality, check out the [walkthrough video](https://drive.google.com/file/d/1aUCcGI2cnbGEDVad8e46K9SurkHi3iif/view?usp=sharing).
 
 ## Installation
 1. Clone the repository:
